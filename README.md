@@ -1,5 +1,5 @@
 http://localhost:8082/h2-console
-<img width="1366" height="690" alt="1" src="https://github.com/user-attachments/assets/3f40134d-16c9-4e63-8ae5-49bef1d9144c" />
+<img width="1366" height="612" alt="12" src="https://github.com/user-attachments/assets/a47420be-83e2-42fd-942e-77969d6eed5c" />
 
 http://localhost:8082/graphiql
 <img width="1366" height="722" alt="3" src="https://github.com/user-attachments/assets/1551233f-48fe-4432-bcfb-35fdef138f28" />
